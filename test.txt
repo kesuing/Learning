@@ -2,3 +2,7 @@
 
 预测和推论是从已知推理未知的过程，
 是主动阅读、掌握阅读技能的法宝。
+
+1.学习python基本语法。
+2.上w3cschool这个网站，学习HTML/CSS下的html、xml、webservice三个教程。
+3. 然后下一个python的requests库学习写最简单的网络爬虫。知乎上爬虫教程一大堆。
